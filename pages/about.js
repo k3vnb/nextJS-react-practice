@@ -25,12 +25,11 @@ export default class About extends Component {
     // }
 
     render(){
+        const { user } = this.props;
         return (
             <Layout title="About">
-                {JSON.stringify(this.props.user)}
-                <Link href="/">
-                    Home
-                </Link>
+                <img src={user.avatar_url} alt="Kevin" height="150px" />
+                <p>{user.bio}</p>
                 <div>A Javascript Programmer</div>
                 <img src="/static/javascript-logo.png" alt="javascript logo" height="200px"/>
             </Layout>
