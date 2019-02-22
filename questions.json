@@ -1,0 +1,145 @@
+{
+    "level1": {
+        "0" : {
+            "task" : "Write a JavaScript program to display the current day and time in the following format:  Today is : Tuesday, Current time is : 10 PM : 30 : 38",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-1.php"
+        },
+        "1": {
+            "task": "Write a JavaScript program to rotate the string 'w3resource in right direction by periodically removing one letter from the end of the string and attaching it to the front.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-5.php"
+        },
+        "2": {
+            "task": "Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-6.php"
+        },
+        "3": {
+            "task": "Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-7.php"
+        },
+        "4": {
+            "task": "Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message 'Good Work' otherwise display a message 'Not matched'.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-8.php"
+        },
+        "5": {
+            "task": "Write a JavaScript program to calculate days left until next Christmas",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-9.php"
+        },
+        "6": {
+            "task": "Write a JavaScript program to convert temperatures to and from Celsius, Fahrenheit.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-11.php"
+        },
+        "7": {
+            "task": "Write a JavaScript program to get the difference between a given number and 13, if the number is greater than 13 return double the absolute difference.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-15.php"
+        },
+        "8": {
+            "task": "Write a JavaScript program to compute the sum of the two given integers. If the two values are same, then returns triple their sum. ",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-16.php"
+        },
+        "9": {
+            "task": "Write a JavaScript program to compute the absolute difference between a specified number and 19. Returns triple their absolute difference if the specified number is greater than 19.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-17.php"
+        },
+        "10": {
+            "task": "Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their sum is 50.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-18.php"
+        },
+        "11": {
+            "task": "Write a JavaScript program to check a given integer is within 20 of 100 or 400.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-19.php"
+        },
+        "12": {
+            "task": "Write a JavaScript program to check from two given integers, if one is positive and one is negative.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-20.php"
+        },
+        "13": {
+            "task": "Write a JavaScript program to create a new string adding 'Py' in front of a given string. If the given string begins with 'Py' then return the original string.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-21.php"
+        },
+        "14": {
+            "task": "Write a JavaScript program to remove a character at the specified position of a given string and return the new string.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-22.php"
+        },
+        "15": {
+            "task": "Write a JavaScript program to create a new string from a given string changing the position of first and last characters. The string length must be greater than or equal to 1.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-23.php"
+        },
+        "16": {
+            "task": "Write a JavaScript program to create a new string from a given string with the first character of the given string added at the front and back.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-24.php"
+        },
+        "17": {
+            "task": "Write a JavaScript program check if a given positive number is a multiple of 3 or a multiple of 7.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-25.php"
+        },
+        "18": {
+            "task": "Write a JavaScript program to create a new string from a given string taking the last 3 characters and added at both the front and back. The string length must be 3 or more.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-26.php"
+        },
+        "19": {
+            "task": "Write a JavaScript program to return true if a string starts with 'Java' and false otherwise.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-27.php"
+        },
+        "20": {
+            "task": "Write a JavaScript program to check if two given integer values are in the range 50..99 (inclusive). Return true if either of them are in the said range.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-28.php"
+        },
+        "21": {
+            "task": "Write a JavaScript program to find the largest of three given integers.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-31.php"
+        },
+        "22": {
+            "task": "Write a JavaScript program to find a value which is nearest to 100 from two different given integer values.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-32.php"
+        },
+        "23": {
+            "task": "Write a JavaScript program to find a value which is nearest to 100 from two different given integer values.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-32.php"
+        },
+        "24": {
+            "task": "Write a JavaScript program to check if the last digit of the three given positive integers is same.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-36.php"
+        },
+        "25": {
+            "task": "Write a JavaScript program to compute the sum of the two given integers, If the sum is in the range 50..80 return 65 other wise return 80.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-39.php"
+        },
+        "26": {
+            "task": "Write a JavaScript program to check from two given integers if either one is 8 or their sum or difference is 8.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-40.php"
+        },
+        "27": {
+            "task": "Write a JavaScript program to check three given numbers, if the three numbers are same return 30 otherwise return 40 and if two numbers are same return 20.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-41.php"
+        },
+        "28": {
+            "task": "Write a JavaScript program to check two given integer values and return true if one of the number is 15 or if their sum or difference is 15.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-45.php"
+        },
+        "29": {
+            "task": "Write a JavaScript program to reverse a given string.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-48.php"
+        },
+        "30": {
+            "task": "Write a JavaScript program to replace every character in a given string with the character following it in the alphabet.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-49.php"
+        },
+        "31": {
+            "task": "Write a JavaScript program to capitalize the first letter of each word of a given string.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-50.php"
+        },
+        "32": {
+            "task": "Write a JavaScript program to convert the letters of a given string in alphabetical order.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-52.php"
+        },
+        "33": {
+            "task": "Write a JavaScript program to count the number of vowels in a given string.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-54.php"
+        },
+        "34": {
+            "task": "Write a JavaScript program to check if a given string contains equal number of p's and t's present.",
+            "solutionLink": "https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-55.php"
+        }
+    
+    }
+}
